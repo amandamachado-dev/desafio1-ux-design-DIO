@@ -3,6 +3,7 @@
 Wireframe de média fidelidade criado na plataforma FIGMA.
 - desafio UX Design - DIO
 
+Projeto de site de serviço no desktop.
 Wireframe criado utilizando alguns fundamentos da UX Design, como Usabilidade e Arquitetura da informação
 facilitando a navegação visando diminuir a carga cognitiva do usuário.
 A Lei de Hick também foi aplicada, deixando uma interface mais clean, com menos opções e muita objetividade.
